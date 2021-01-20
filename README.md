@@ -5,3 +5,10 @@ Wishing that Gradescope (a platform for grading used by many colleges) had some 
 This project is published [here](https://gradescrape.herokuapp.com) and is functional, but not perfected. To avoid unnecessary risk, I do not recommend using Gradescrape for important actions such as taking tests or submitting assignments — Gradescrape is meant for viewing rather than doing.
 
 Note: Better experience on Safari
+
+### To do
+
+- Add features to assignment viewing page
+- Parse and correctly display json response from Gradescope when attempting to view PDF submissions
+- Be able to display code submissions for programming assignments
+- Test submitting assignments and taking exams
