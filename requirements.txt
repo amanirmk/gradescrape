@@ -3,3 +3,4 @@ flask_session
 matplotlib
 requests
 gunicorn
+beautifulsoup4
