@@ -4,3 +4,4 @@ matplotlib
 requests
 gunicorn
 beautifulsoup4
+lxml
