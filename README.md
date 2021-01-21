@@ -12,3 +12,4 @@ Note: Better experience on Safari
 - Parse and correctly display json response from Gradescope when attempting to view PDF submissions
 - Be able to display code submissions for programming assignments
 - Test submitting assignments and taking exams
+- Fix certain icons on Chrome
